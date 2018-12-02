@@ -5,8 +5,8 @@ import org.junit.Test;
 
 public class ContactoTest {
 	
-/*	private static final String MENSAJE_EXCEPCION = "Debería haber saltado la excepción.";
-
+	private static final String MENSAJE_EXCEPCION = "Debería haber saltado la excepción.";
+	/*
 	@Test
 	public void constructorValidoTest() {
 		Contacto contacto = new Contacto("José Ramón", "950112233", "joseramon.jimenez@iesalandalus.org");
