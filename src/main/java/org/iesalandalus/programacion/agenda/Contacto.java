@@ -77,9 +77,6 @@ public class Contacto {
 		return iniciales.toUpperCase(); // devuelve las iniciales en mayúsculas
 	}
 
-	
-	
-	
 
 	@Override
 	public int hashCode() {
